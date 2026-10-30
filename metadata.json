@@ -1,0 +1,6 @@
+{
+  "name": "Vespera — Privacy-First Cycle & Clinical Health",
+  "description": "Local-first, zero-knowledge encrypted health, non-standard Bayesian cycle, HRT, and clinical fertility platform with adaptive computer vision calibration.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
